@@ -73,6 +73,8 @@ apis:
   - type: Documentation
     url: https://www.bloomberg.com/professional/solution/bval/
 common:
+- type: DomainSecurity
+  url: security/bloomberg-valuation-service-bval-domain-security.yml
 - type: Portal
   url: https://www.bloomberg.com/professional/
 - type: Documentation
